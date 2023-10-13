@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/124ds1AVNPxli8/giphy.gif" width="300"/>
 </div>
 
-### Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 <h3 align="center">A junior backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzxolop&label=Profile%20views&color=0e75b6&style=flat" alt="xzxolop" /> </p>
