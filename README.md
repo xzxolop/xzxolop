@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/124ds1AVNPxli8/giphy.gif" width="300"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=xzxolop&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ### Hi there 👋
 
