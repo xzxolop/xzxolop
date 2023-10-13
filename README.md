@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/124ds1AVNPxli8/giphy.gif" width="300"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Egor</h1>
+### Hi there 👋
 <h3 align="center">A junior backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xzxolop&label=Profile%20views&color=0e75b6&style=flat" alt="xzxolop" /> </p>
@@ -20,7 +20,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xzxolop&" alt="xzxolop" /></p>
 
-### Hi there 👋
+
 
 <!--
 **xzxolop/xzxolop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
