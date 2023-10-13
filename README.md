@@ -2,9 +2,6 @@
   <img src="https://media.giphy.com/media/124ds1AVNPxli8/giphy.gif" width="300"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xzxolop&label=Profile%20views&color=0e75b6&style=flat" alt="xzxolop" /> </p>
-<img src="https://komarev.com/ghpvc/?username=xzxolop" alt=""/>
-
 <h1 align="center">Hi 👋, I'm Egor</h1>
 <h3 align="center">A junior backend developer</h3>
 
