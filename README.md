@@ -21,13 +21,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xzxolop&" alt="xzxolop" /></p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xzxolop&show_icons=true&locale=en&layout=compact" alt="xzxolop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xzxolop&show_icons=true&locale=en" alt="xzxolop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xzxolop&" alt="xzxolop" /></p>
-
 <!--
 **xzxolop/xzxolop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
